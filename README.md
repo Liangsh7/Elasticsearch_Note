@@ -1,0 +1,2 @@
+# Elasticsearch_Note
+Elasticsearch入门知识
